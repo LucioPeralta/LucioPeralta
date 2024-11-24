@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Lucio Peralta, a programming student currently in his seventh and final year at ITS Villada College. During my years at the institution I have been able to explore various languages ​​and tools that led me to become passionate about programming.
+I am Lucio Peralta, a programmer with experience in various languages and tools that have fueled my passion for technology and development. During my training, I explored different programming paradigms and worked on projects that strengthened my skills in both frontend and backend development.
 
 
 ## 🌐 Socials:
